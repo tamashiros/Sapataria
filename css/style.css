@@ -1,0 +1,23 @@
+.page-title{
+    /*SHORTING MARGENS*/
+    margin: 40px auto 5px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 30pt;
+    font-size: bolt;
+    color:#8e3200;
+   
+}
+h2{
+    margin: 5px auto 25px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 15pt;
+    color:#8e3200;
+    
+}
+main{
+    width: 80%;
+    margin: 40px auto 5px;
+    padding-left: 10px ;
+    
