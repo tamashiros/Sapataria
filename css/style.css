@@ -20,4 +20,13 @@ main{
     width: 80%;
     margin: 40px auto 5px;
     padding-left: 10px ;
-    
+}
+    .article-title{
+       
+        margin: 40px auto 5px;
+        padding-left: 10px;
+        width: 80%;
+        font-size: 30pt;
+        font-size: bolt;
+        color:#8e3200;
+    }
